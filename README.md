@@ -1,6 +1,7 @@
 
 # Hey, My name is Fahim Hossain Munna 👋
 #### I am passionate Web Designer & PHP Developer from Bangladesh.
+![Profile views](https://gpvc.arturio.dev/we-X-part-station)
 ![I am passionate Web Designer & PHP Developer from Bangladesh.](https://media-exp1.licdn.com/dms/image/C5616AQEZLZRMXl7lxg/profile-displaybackgroundimage-shrink_200_800/0/1652709907881?e=1658966400&v=beta&t=B8EcV0KtkViA5NV92rvad53795mKh_Smd8L6wcPR6vk)
 
 I made projects just for fun.
@@ -24,5 +25,4 @@ Skills: Student at Creative IT Institute | Web Design | Wordpress theme customiz
 ![GitHub metrics](https://metrics.lecoq.io/we-X-part-station)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=we-X-part-station)  
-
-![Profile views](https://gpvc.arturio.dev/we-X-part-station)  
+  
