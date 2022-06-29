@@ -3,8 +3,6 @@
 #### I am passionate Web Designer & PHP Developer from Bangladesh.
 ![Profile views](https://gpvc.arturio.dev/we-X-part-station)
 
-I am passionate Web Designer & PHP Developer from Bangladesh.
-
 <a href="https://ibb.co/LNRwDwy"><img src="https://i.ibb.co/QDQB7BV/Fahim-Hossain-Munna.png" alt="Fahim-Hossain-Munna" border="0" /></a>
 
 I made projects just for fun.
