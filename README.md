@@ -9,7 +9,7 @@ Hi, Thanks for visiting my profile.It's me Fahim, a experienced, Web Designer PS
 Skills: PHP / Laravel/ Wordpress Customization/ Bootstrap / JQuery Plug-in / Git-Bash / JS / HTML / CSS
 
 - 🔭 I’m currently working on Full Dynamic E-commerce Website 
-- 🌱 I’m currently learning Laravel & API System 
+- 🌱 I’m currently learning Laravel & React.Js 
 - 💬 Ask me about Web Design & PHP Raw Code Related Problem's 
 - 📫 How to reach me: fahim.education.bd@gmail.com 
 - ⚡ Fun fact: My English is too much bad as like my Face. 
