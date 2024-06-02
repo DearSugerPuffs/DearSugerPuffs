@@ -1,8 +1,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahim-hossain-munna&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-hossain-munna" /> </p>
 
-<h2> Hi, I'm Fahim Hossain Munna! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Fahim Hossain Munna!</h2>
+<img align='right' src="https://i.ibb.co/g9SDyGs/profile-pic-1.png" width="230">
 <p><em>I'm Study at <a href="https://hbuc.edu.bd/">Habibullah Bahar College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://cbg.com.bd/">Creative Business Group</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
