@@ -3,7 +3,7 @@
 
 <h2> Hi, I'm Fahim Hossain Munna!</h2>
 <img align='right' src="https://i.ibb.co/g9SDyGs/profile-pic-1.png" width="230">
-<p><em>I'm Study at <a href="https://hbuc.edu.bd/">Habibullah Bahar College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://cbg.com.bd/">RazinSoft Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I'm Study at <a href="https://hbuc.edu.bd/">Habibullah Bahar College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://razinsoft.com/">RazinSoft Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/fahim-hossain-munna-004a81219/)
