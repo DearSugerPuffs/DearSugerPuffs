@@ -28,11 +28,12 @@
 const fhMunna = {
   pronouns: "He" | "Him",
   languages: [PHP, Laravel, Javascript, HTML, CSS],
-  tools: [Vue.js, Pinia, Inertia.js, Livewire, Composer, Node, Tailwind, Bootstrap],
+  tools: [Vue.js, Pinia, Postman API , Inertia.js, Livewire, Composer, Node, Tailwind, Bootstrap],
+  currentProject: "Learning Management Software (LMS)"
   experiences: {
-                        team_member: "YSSE Academy",
-                        developer: "Creative Business Group",
-                        mentor: "Creative IT Institute"
+                        developer: "RazinSoft Ltd",
+                        exMentor: "Creative IT Institute"
+                        exMember: "YSSE Academy"
                       },
  motivation: "Experience is the name everyone gives to their mistakes – Oscar Wilde"
  fun: "Computers are fast but developers keep them slow"
